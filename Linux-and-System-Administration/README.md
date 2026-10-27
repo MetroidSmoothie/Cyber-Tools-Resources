@@ -1,8 +1,6 @@
 
 # Linux & System Administration
 
-A curated collection of Linux administration tools, command-line references, system monitoring utilities, and technical documentation for managing, troubleshooting, and securing Linux and Unix-based environments.
-
 ## Linux Documentation & References
 
 | Resource | Description |
