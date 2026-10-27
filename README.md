@@ -20,12 +20,3 @@ A curated collection of cybersecurity tools, references, research, and training 
 | [Security Frameworks and Governance](Security-Frameworks-and-Governance/README.md) | 3 |
 | [Linux and System Administration](Linux-and-System-Administration/README.md) | 4 |
 | [Learning and Reference Materials](Learning-and-Reference-Materials/README.md) | 4 |
-
-## Collection notes
-
-- The duplicate **Critical Log Review Checklist** entry was consolidated.
-- **Bitly** was excluded because it is a general-purpose URL shortener.
-- **Cisco Security Advisories** is retained with a missing-URL flag; its URL was absent from the source CSV.
-- Two blank rows were removed.
-- The **Windows Logging Guides** row contained a second URL in a separate column; its ManageEngine link is listed in the Windows section.
-- Some legacy URLs may be outdated; these have not been live-tested.
