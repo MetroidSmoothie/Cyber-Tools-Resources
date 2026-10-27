@@ -5,19 +5,19 @@ A curated, methodology-organized reference for **authorized penetration testing*
 
 > **Maintenance note:** Entries are selected for established vendor support or ongoing community relevance, but this list is not a real-time audit of release activity. Check the linked vendor/repository release history before use. Tools flagged for maintenance review should be removed if they no longer meet your update standard.
 
-## Jump to a phase
+## Jump to a Phase
 
-- [01 — Reconnaissance & OSINT](#01-reconnaissance-and-osint)
-- [02 — Network & Service Enumeration](#02-network-and-service-enumeration)
-- [03 — Web & API Enumeration](#03-web-and-api-enumeration)
-- [04 — Active Directory Enumeration](#04-active-directory-enumeration)
-- [05 — Vulnerability Analysis](#05-vulnerability-analysis)
-- [06 — Exploitation & Initial Access](#06-exploitation-and-initial-access)
-- [07 — Privilege Escalation: Windows](#07-privilege-escalation-windows)
-- [07 — Privilege Escalation: Linux](#07-privilege-escalation-linux)
-- [08 — Post-Exploitation](#08-post-exploitation)
-- [09 — Lateral Movement](#09-lateral-movement)
-- [10 — Persistence & Defense Evasion](#10-persistence-and-defense-evasion)
+- [01 — Reconnaissance & OSINT](#01--reconnaissance--osint)
+- [02 — Network & Service Enumeration](#02--network--service-enumeration)
+- [03 — Web & API Enumeration](#03--web--api-enumeration)
+- [04 — Active Directory Enumeration](#04--active-directory-enumeration)
+- [05 — Vulnerability Analysis](#05--vulnerability-analysis)
+- [06 — Exploitation & Initial Access](#06--exploitation--initial-access)
+- [07 — Privilege Escalation: Windows](#07--privilege-escalation-windows)
+- [07 — Privilege Escalation: Linux](#07--privilege-escalation-linux)
+- [08 — Post-Exploitation](#08--post-exploitation)
+- [09 — Lateral Movement](#09--lateral-movement)
+- [10 — Persistence & Defense Evasion](#10--persistence--defense-evasion)
 
 ---
 
