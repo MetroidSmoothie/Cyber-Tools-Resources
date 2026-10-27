@@ -1,10 +1,6 @@
 
 # Penetration Testing & Offensive Security
 
-A curated, methodology-organized reference for **authorized penetration testing**. Includes tools, official documentation, and living cheat sheets—**no labs or training platforms**.
-
-> **Maintenance note:** Entries are selected for established vendor support or ongoing community relevance, but this list is not a real-time audit of release activity. Check the linked vendor/repository release history before use. Tools flagged for maintenance review should be removed if they no longer meet your update standard.
-
 ## Jump to a Phase
 
 - [01 — Reconnaissance & OSINT](#01--reconnaissance--osint)
