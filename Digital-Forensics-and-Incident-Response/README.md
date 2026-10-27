@@ -1,17 +1,43 @@
-# Digital Forensics and Incident Response
 
-Curated cybersecurity resources. Links reflect the original collection; availability and current relevance should be reviewed periodically.
+# Digital Forensics & Incident Response (DFIR)
 
-| Resource | Purpose |
+A curated collection of digital forensic tools, incident response utilities, and technical references for investigating security incidents, analyzing compromised systems, and collecting forensic evidence.
+
+## Endpoint & Disk Forensics
+
+| Resource | Description |
 |---|---|
-| [Volatility Memory Samples](https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples) | Memory images for forensic practice. |
-| [Volatility Cheatsheet](https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-cheatsheet) | Memory forensics command reference. |
-| [First Steps to Volatility Analysis](https://medium.com/@zemelusa/first-steps-to-volatile-memory-analysis-dcbd4d2d56a1) | Introductory memory-analysis walkthrough. |
-| [Volatility 2 to 3 Command Conversions](https://blog.onfvp.com/post/volatility-cheatsheet/) | Command mapping across Volatility versions. |
-| [Malware Outbreak Playbook](https://www.incidentresponse.org/playbooks/malware-outbreak) | Incident response workflow reference. |
-| [USB Historian](http://4discovery.com/our-tools/usb-historian/) | USB device artifact investigation. |
-| [Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md) | Windows artifact parsing utilities. |
-| [Browser History Viewer](https://www.foxtonforensics.com/browser-history-viewer/) | Browser history analysis. |
-| [Browser History Capturer](https://www.foxtonforensics.com/browser-history-capturer/) | Browser history collection. |
-| [PhishTool](https://app.phishtool.com/submit) | Phishing email investigation and triage. |
-| [Wannabrowser](https://www.wannabrowser.net/) | Browser emulation |
+| [Eric Zimmerman Tools](https://ericzimmerman.github.io/) | Windows forensic artifact parsing, timeline analysis, and evidence extraction. |
+| [Autopsy](https://www.autopsy.com/) | Open-source digital forensic platform for disk and file system investigations. |
+| [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kape) | Rapid collection and processing of forensic artifacts. |
+| [Velociraptor](https://docs.velociraptor.app/) | Endpoint visibility, forensic evidence collection, and incident response at scale. |
+| [FTK Imager](https://www.exterro.com/ftk-imager) | Forensic disk imaging, evidence acquisition, and preview. |
+
+## Memory & Malware Forensics
+
+| Resource | Description |
+|---|---|
+| [Volatility 3](https://github.com/volatilityfoundation/volatility3) | Memory forensics framework for analyzing processes, network activity, and malicious artifacts. |
+| [Volatility Foundation](https://volatilityfoundation.org/) | Official Volatility documentation, resources, and project updates. |
+| [YARA-X](https://virustotal.github.io/yara-x/) | Pattern-based identification and classification of suspicious files and artifacts. |
+| [CyberChef](https://gchq.github.io/CyberChef/) | Data decoding, encoding, extraction, and transformation for forensic analysis. |
+
+## Network Forensics & Incident Investigation
+
+| Resource | Description |
+|---|---|
+| [Wireshark](https://www.wireshark.org/) | Packet capture analysis and network protocol inspection. |
+| [Zeek](https://zeek.org/) | Network security monitoring and protocol-level forensic logging. |
+| [Suricata](https://suricata.io/) | Network intrusion detection, traffic inspection, and event generation. |
+| [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/) | Microsoft utilities for investigating Windows processes, persistence, and system activity. |
+
+## DFIR References & Cheat Sheets
+
+| Resource | Description |
+|---|---|
+| [SANS DFIR Cheat Sheets](https://www.sans.org/posters/) | Forensic investigation, memory analysis, and incident handling quick references. |
+| [Windows Security Event Reference](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/advanced-security-audit-policy-settings) | Microsoft documentation for Windows security auditing and event generation. |
+| [MITRE ATT&CK](https://attack.mitre.org/) | Adversary tactics and techniques for reconstructing intrusion activity. |
+| [CISA Incident Response Resources](https://www.cisa.gov/topics/cyber-threats-and-advisories/incident-detection-response-and-prevention) | Incident detection, response, and recovery guidance. |
+| [Volatility 3 Documentation](https://volatility3.readthedocs.io/) | Maintained reference for memory forensic plugins and analysis workflows. |
+
