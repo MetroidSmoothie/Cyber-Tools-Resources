@@ -1,8 +1,6 @@
 
 # Digital Forensics & Incident Response (DFIR)
 
-A curated collection of digital forensic tools, incident response utilities, and technical references for investigating security incidents, analyzing compromised systems, and collecting forensic evidence.
-
 ## Endpoint & Disk Forensics
 
 | Resource | Description |
