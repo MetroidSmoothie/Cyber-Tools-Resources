@@ -1,10 +1,6 @@
 
 # OSINT & Reconnaissance
 
-A curated collection of open-source intelligence (OSINT) tools and public information resources for domain research, infrastructure discovery, internet exposure analysis, digital footprint investigations, and relationship mapping.
-
-Resources are organized by investigative purpose and prioritize established services, official documentation, and maintained tools.
-
 ## Contents
 
 - [OSINT Frameworks & Investigation Platforms](#osint-frameworks--investigation-platforms)
