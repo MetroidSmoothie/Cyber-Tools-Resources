@@ -1,8 +1,6 @@
 
 # Threat Intelligence & Feeds
 
-A curated collection of cyber threat intelligence platforms, continuously updated threat feeds, IOC enrichment services, and threat research resources used by security operations teams, incident responders, and threat intelligence analysts.
-
 ## Contents
 
 - [Threat Intelligence Platforms](#threat-intelligence-platforms)
