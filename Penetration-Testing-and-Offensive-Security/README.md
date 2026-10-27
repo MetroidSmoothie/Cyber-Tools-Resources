@@ -75,6 +75,9 @@ A curated, methodology-organized reference for **authorized penetration testing*
 | [Metasploit Framework](https://www.metasploit.com/) | Tool | Controlled exploitation and validation. |
 | [Metasploit Documentation](https://docs.metasploit.com/) | Official reference | Framework modules and workflows. |
 | [sqlmap](https://sqlmap.org/) | Tool | SQL injection detection and validation. |
+| [Gophish](https://getgophish.com/) | Open-source phishing simulation framework for email creation, campaign delivery, landing pages, and engagement tracking. |
+| [PhishingBox](https://www.phishingbox.com/) | Phishing campaign management, customizable templates, and reporting. |
+| [Lovable](https://lovable.dev/) | AI-powered web application development platform for building custom phishing simulation landing pages and web interfaces. |
 
 ## 07 — Privilege Escalation: Windows
 
