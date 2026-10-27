@@ -1,8 +1,6 @@
 
 # Windows Security & Log Analysis
 
-A curated collection of Windows security tools, event log references, auditing utilities, and technical resources for monitoring, investigating, and securing Windows enterprise environments.
-
 ## Windows Event Logs & Auditing
 
 | Resource | Description |
