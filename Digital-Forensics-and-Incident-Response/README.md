@@ -14,3 +14,4 @@ Curated cybersecurity resources. Links reflect the original collection; availabi
 | [Browser History Viewer](https://www.foxtonforensics.com/browser-history-viewer/) | Browser history analysis. |
 | [Browser History Capturer](https://www.foxtonforensics.com/browser-history-capturer/) | Browser history collection. |
 | [PhishTool](https://app.phishtool.com/submit) | Phishing email investigation and triage. |
+| [Wannabrowser](https://www.wannabrowser.net/) | Browser emulation |
