@@ -16,7 +16,6 @@ A curated collection of cybersecurity tools, references, research, and training 
 | [Network Analysis and Utilities](Network-Analysis-and-Utilities/README.md) | 5 |
 | [Penetration Testing and Offensive Security](Penetration-Testing-and-Offensive-Security/README.md) | 5 |
 | [Application Security](Application-Security/README.md) | 2 |
-| [Phishing and Security Awareness](Phishing-and-Security-Awareness/README.md) | 4 |
 | [Security Frameworks and Governance](Security-Frameworks-and-Governance/README.md) | 3 |
 | [Linux and System Administration](Linux-and-System-Administration/README.md) | 4 |
 | [Learning and Reference Materials](Learning-and-Reference-Materials/README.md) | 4 |
